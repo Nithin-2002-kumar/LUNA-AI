@@ -1,0 +1,14 @@
+pillow
+speechrecognition
+pyttsx3
+pyautogui
+psutil
+opencv-python
+mediapipe
+numpy
+scikit-learn
+wikipedia
+requests
+wolframalpha
+spacy
+pygame
